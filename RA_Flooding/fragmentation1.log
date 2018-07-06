@@ -1,0 +1,2051 @@
+2018-02-21 03:14:12,817 - RA_IDS_Source_IP_Final - INFO - ---------- IDS Information ----------
+2018-02-21 03:14:12,817 - RA_IDS_Source_IP_Final - INFO - Dataset : /root/Desktop/Pcaps/fragmentation1.pcap
+2018-02-21 03:14:12,818 - RA_IDS_Source_IP_Final - INFO - Window based on : 50 packet count
+2018-02-21 03:14:12,818 - RA_IDS_Source_IP_Final - INFO - EWMA factor used : 0.1
+2018-02-21 03:14:12,818 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold variable used : 0.1
+2018-02-21 03:14:12,818 - RA_IDS_Source_IP_Final - INFO - Maximum number of times threshold exceeds before raising an alarm : 3
+2018-02-21 03:14:12,818 - RA_IDS_Source_IP_Final - INFO - -------------------------------------
+2018-02-21 03:14:13,191 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,191 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:13,191 - RA_IDS_Source_IP_Final - INFO - window count = 1
+2018-02-21 03:14:13,191 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:13,191 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:13,191 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.0
+2018-02-21 03:14:13,191 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,192 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,192 - RA_IDS_Source_IP_Final - INFO - true positive count: 0
+2018-02-21 03:14:13,192 - RA_IDS_Source_IP_Final - INFO - true negative count: 1
+2018-02-21 03:14:13,192 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - window count = 2
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.0
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - true positive count: 0
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,255 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,327 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,327 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:13,327 - RA_IDS_Source_IP_Final - INFO - window count = 3
+2018-02-21 03:14:13,327 - RA_IDS_Source_IP_Final - INFO - ALARM # 1
+2018-02-21 03:14:13,327 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,327 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,328 - RA_IDS_Source_IP_Final - INFO - true positive count: 0
+2018-02-21 03:14:13,328 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,328 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,422 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,422 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:13,422 - RA_IDS_Source_IP_Final - INFO - window count = 4
+2018-02-21 03:14:13,423 - RA_IDS_Source_IP_Final - INFO - ALARM # 2
+2018-02-21 03:14:13,423 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,423 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,423 - RA_IDS_Source_IP_Final - INFO - true positive count: 0
+2018-02-21 03:14:13,423 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,423 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,558 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,558 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:13,559 - RA_IDS_Source_IP_Final - INFO - window count = 5
+2018-02-21 03:14:13,559 - RA_IDS_Source_IP_Final - INFO - ALARM # 3
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - true positive count: 1
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,560 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,644 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,644 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - window count = 6
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - ALARM # 4
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - true positive count: 2
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,645 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,762 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,762 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:13,762 - RA_IDS_Source_IP_Final - INFO - window count = 7
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - ALARM # 5
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - true positive count: 3
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,763 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,871 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,871 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:13,871 - RA_IDS_Source_IP_Final - INFO - window count = 8
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - ALARM # 6
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - true positive count: 4
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,872 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:13,990 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:13,991 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:13,991 - RA_IDS_Source_IP_Final - INFO - window count = 9
+2018-02-21 03:14:13,991 - RA_IDS_Source_IP_Final - INFO - ALARM # 7
+2018-02-21 03:14:13,991 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:13,991 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:13,992 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:13,992 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:13,992 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:13,992 - RA_IDS_Source_IP_Final - INFO - true positive count: 5
+2018-02-21 03:14:13,992 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:13,992 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,081 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,081 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:14,081 - RA_IDS_Source_IP_Final - INFO - window count = 10
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - ALARM # 8
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - true positive count: 6
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,082 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,203 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,203 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:14,203 - RA_IDS_Source_IP_Final - INFO - window count = 11
+2018-02-21 03:14:14,203 - RA_IDS_Source_IP_Final - INFO - ALARM # 9
+2018-02-21 03:14:14,203 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,203 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:14,203 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,204 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,204 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,204 - RA_IDS_Source_IP_Final - INFO - true positive count: 7
+2018-02-21 03:14:14,204 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,204 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,310 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,310 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - window count = 12
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - ALARM # 10
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - true positive count: 8
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,311 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,408 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - window count = 13
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - ALARM # 11
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - true positive count: 9
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,409 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,497 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,497 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - window count = 14
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - ALARM # 12
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - true positive count: 10
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,498 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,640 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,642 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:14,642 - RA_IDS_Source_IP_Final - INFO - window count = 15
+2018-02-21 03:14:14,642 - RA_IDS_Source_IP_Final - INFO - ALARM # 13
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - true positive count: 11
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,643 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,745 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - window count = 16
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - ALARM # 14
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - true positive count: 12
+2018-02-21 03:14:14,746 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,747 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,853 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,853 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:14,853 - RA_IDS_Source_IP_Final - INFO - window count = 17
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - ALARM # 15
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - true positive count: 13
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,854 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:14,956 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:14,956 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:14,956 - RA_IDS_Source_IP_Final - INFO - window count = 18
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - ALARM # 16
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - true positive count: 14
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:14,957 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,066 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,067 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:15,067 - RA_IDS_Source_IP_Final - INFO - window count = 19
+2018-02-21 03:14:15,067 - RA_IDS_Source_IP_Final - INFO - ALARM # 17
+2018-02-21 03:14:15,067 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,067 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:15,067 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,068 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,068 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,068 - RA_IDS_Source_IP_Final - INFO - true positive count: 15
+2018-02-21 03:14:15,068 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,068 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,173 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,173 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:15,173 - RA_IDS_Source_IP_Final - INFO - window count = 20
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - ALARM # 18
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - true positive count: 16
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,174 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,288 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,288 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:15,288 - RA_IDS_Source_IP_Final - INFO - window count = 21
+2018-02-21 03:14:15,288 - RA_IDS_Source_IP_Final - INFO - ALARM # 19
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - true positive count: 17
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,289 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,402 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,402 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - window count = 22
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - ALARM # 20
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - true positive count: 18
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,403 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,516 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - window count = 23
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - ALARM # 21
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - true positive count: 19
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,517 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,621 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,621 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:15,621 - RA_IDS_Source_IP_Final - INFO - window count = 24
+2018-02-21 03:14:15,621 - RA_IDS_Source_IP_Final - INFO - ALARM # 22
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - true positive count: 20
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,622 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,714 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,714 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:15,714 - RA_IDS_Source_IP_Final - INFO - window count = 25
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - ALARM # 23
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - true positive count: 21
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,715 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,836 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,836 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:15,836 - RA_IDS_Source_IP_Final - INFO - window count = 26
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - ALARM # 24
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - true positive count: 22
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,837 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:15,933 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:15,933 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - window count = 27
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - ALARM # 25
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - true positive count: 23
+2018-02-21 03:14:15,934 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:15,935 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - window count = 28
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - ALARM # 26
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,037 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,038 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,038 - RA_IDS_Source_IP_Final - INFO - true positive count: 24
+2018-02-21 03:14:16,038 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,038 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,149 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - window count = 29
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - ALARM # 27
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,150 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,151 - RA_IDS_Source_IP_Final - INFO - true positive count: 25
+2018-02-21 03:14:16,151 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,151 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,258 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,258 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:16,258 - RA_IDS_Source_IP_Final - INFO - window count = 30
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - ALARM # 28
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - true positive count: 26
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,259 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,364 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,364 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:16,364 - RA_IDS_Source_IP_Final - INFO - window count = 31
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - ALARM # 29
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - true positive count: 27
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,365 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,471 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - window count = 32
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - ALARM # 30
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,472 - RA_IDS_Source_IP_Final - INFO - true positive count: 28
+2018-02-21 03:14:16,473 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,473 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,571 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,572 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:16,572 - RA_IDS_Source_IP_Final - INFO - window count = 33
+2018-02-21 03:14:16,572 - RA_IDS_Source_IP_Final - INFO - ALARM # 31
+2018-02-21 03:14:16,572 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,572 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:16,572 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,572 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,573 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,573 - RA_IDS_Source_IP_Final - INFO - true positive count: 29
+2018-02-21 03:14:16,573 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,573 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,679 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - window count = 34
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - ALARM # 32
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,680 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,681 - RA_IDS_Source_IP_Final - INFO - true positive count: 30
+2018-02-21 03:14:16,681 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,681 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - window count = 35
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - ALARM # 33
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,786 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,787 - RA_IDS_Source_IP_Final - INFO - true positive count: 31
+2018-02-21 03:14:16,787 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,787 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,886 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,886 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - window count = 36
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - ALARM # 34
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - true positive count: 32
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,887 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:16,990 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:16,990 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:16,990 - RA_IDS_Source_IP_Final - INFO - window count = 37
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - ALARM # 35
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - true positive count: 33
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:16,991 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - window count = 38
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - ALARM # 36
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:17,144 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:17,145 - RA_IDS_Source_IP_Final - INFO - true positive count: 34
+2018-02-21 03:14:17,145 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:17,145 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - window count = 39
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - ALARM # 37
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - true positive count: 35
+2018-02-21 03:14:17,306 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:17,307 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - window count = 40
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - ALARM # 38
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:17,471 - RA_IDS_Source_IP_Final - INFO - true positive count: 36
+2018-02-21 03:14:17,472 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:17,472 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:17,571 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:17,571 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:17,571 - RA_IDS_Source_IP_Final - INFO - window count = 41
+2018-02-21 03:14:17,571 - RA_IDS_Source_IP_Final - INFO - ALARM # 39
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - true positive count: 37
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:17,572 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:17,701 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:17,701 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:17,701 - RA_IDS_Source_IP_Final - INFO - window count = 42
+2018-02-21 03:14:17,701 - RA_IDS_Source_IP_Final - INFO - ALARM # 40
+2018-02-21 03:14:17,701 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:17,701 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:17,701 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:17,702 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:17,702 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:17,702 - RA_IDS_Source_IP_Final - INFO - true positive count: 38
+2018-02-21 03:14:17,702 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:17,702 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:17,879 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:17,879 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:17,879 - RA_IDS_Source_IP_Final - INFO - window count = 43
+2018-02-21 03:14:17,879 - RA_IDS_Source_IP_Final - INFO - ALARM # 41
+2018-02-21 03:14:17,880 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:17,886 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:17,886 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:17,886 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:17,886 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:17,886 - RA_IDS_Source_IP_Final - INFO - true positive count: 39
+2018-02-21 03:14:17,886 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:17,886 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,028 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,028 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - window count = 44
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - ALARM # 42
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - true positive count: 40
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,029 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,219 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,219 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - window count = 45
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - ALARM # 43
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - true positive count: 41
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,220 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - source IP address count: 14
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - window count = 46
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - ALARM # 44
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.63906
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,297 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,298 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,298 - RA_IDS_Source_IP_Final - INFO - true positive count: 42
+2018-02-21 03:14:18,298 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,298 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,388 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,388 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:18,388 - RA_IDS_Source_IP_Final - INFO - window count = 47
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - ALARM # 45
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - true positive count: 43
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,389 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,515 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - window count = 48
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - ALARM # 46
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - true positive count: 44
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,516 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,612 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,612 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:18,613 - RA_IDS_Source_IP_Final - INFO - window count = 49
+2018-02-21 03:14:18,613 - RA_IDS_Source_IP_Final - INFO - ALARM # 47
+2018-02-21 03:14:18,613 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,613 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:18,614 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,614 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,614 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,614 - RA_IDS_Source_IP_Final - INFO - true positive count: 45
+2018-02-21 03:14:18,614 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,614 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,684 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,684 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:18,684 - RA_IDS_Source_IP_Final - INFO - window count = 50
+2018-02-21 03:14:18,684 - RA_IDS_Source_IP_Final - INFO - ALARM # 48
+2018-02-21 03:14:18,684 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,684 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:18,685 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,685 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,685 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,685 - RA_IDS_Source_IP_Final - INFO - true positive count: 46
+2018-02-21 03:14:18,685 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,685 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,791 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,791 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:18,791 - RA_IDS_Source_IP_Final - INFO - window count = 51
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - ALARM # 49
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - true positive count: 47
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,792 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:18,905 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:18,905 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:18,905 - RA_IDS_Source_IP_Final - INFO - window count = 52
+2018-02-21 03:14:18,905 - RA_IDS_Source_IP_Final - INFO - ALARM # 50
+2018-02-21 03:14:18,905 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:18,906 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:18,906 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:18,906 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:18,906 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:18,906 - RA_IDS_Source_IP_Final - INFO - true positive count: 48
+2018-02-21 03:14:18,906 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:18,906 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,010 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - window count = 53
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - ALARM # 51
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - true positive count: 49
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,011 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,125 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,125 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:19,125 - RA_IDS_Source_IP_Final - INFO - window count = 54
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - ALARM # 52
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - true positive count: 50
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,126 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,218 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,218 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - window count = 55
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - ALARM # 53
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - true positive count: 51
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,219 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - window count = 56
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - ALARM # 54
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,348 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,349 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,349 - RA_IDS_Source_IP_Final - INFO - true positive count: 52
+2018-02-21 03:14:19,349 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,349 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,451 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,451 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:19,451 - RA_IDS_Source_IP_Final - INFO - window count = 57
+2018-02-21 03:14:19,451 - RA_IDS_Source_IP_Final - INFO - ALARM # 55
+2018-02-21 03:14:19,451 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,451 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:19,452 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,452 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,452 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,452 - RA_IDS_Source_IP_Final - INFO - true positive count: 53
+2018-02-21 03:14:19,452 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,452 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,553 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,553 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:19,553 - RA_IDS_Source_IP_Final - INFO - window count = 58
+2018-02-21 03:14:19,553 - RA_IDS_Source_IP_Final - INFO - ALARM # 56
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - true positive count: 54
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,554 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,632 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,632 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:19,632 - RA_IDS_Source_IP_Final - INFO - window count = 59
+2018-02-21 03:14:19,632 - RA_IDS_Source_IP_Final - INFO - ALARM # 57
+2018-02-21 03:14:19,632 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,632 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:19,633 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,633 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,633 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,633 - RA_IDS_Source_IP_Final - INFO - true positive count: 55
+2018-02-21 03:14:19,633 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,633 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,741 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,741 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:19,741 - RA_IDS_Source_IP_Final - INFO - window count = 60
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - ALARM # 58
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - true positive count: 56
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,742 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - window count = 61
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - ALARM # 59
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,857 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,858 - RA_IDS_Source_IP_Final - INFO - true positive count: 57
+2018-02-21 03:14:19,858 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,858 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:19,952 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:19,952 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:19,952 - RA_IDS_Source_IP_Final - INFO - window count = 62
+2018-02-21 03:14:19,952 - RA_IDS_Source_IP_Final - INFO - ALARM # 60
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - true positive count: 58
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:19,953 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,059 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,059 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:20,059 - RA_IDS_Source_IP_Final - INFO - window count = 63
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - ALARM # 61
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - true positive count: 59
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,060 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,152 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - window count = 64
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - ALARM # 62
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - true positive count: 60
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,153 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,256 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,256 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:20,256 - RA_IDS_Source_IP_Final - INFO - window count = 65
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - ALARM # 63
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - true positive count: 61
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,257 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,367 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - window count = 66
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - ALARM # 64
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - true positive count: 62
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,368 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,468 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,468 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - window count = 67
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - ALARM # 65
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - true positive count: 63
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,469 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,588 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,589 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:20,589 - RA_IDS_Source_IP_Final - INFO - window count = 68
+2018-02-21 03:14:20,589 - RA_IDS_Source_IP_Final - INFO - ALARM # 66
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - true positive count: 64
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,590 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,694 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - window count = 69
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - ALARM # 67
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - true positive count: 65
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,695 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,812 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,813 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:20,813 - RA_IDS_Source_IP_Final - INFO - window count = 70
+2018-02-21 03:14:20,813 - RA_IDS_Source_IP_Final - INFO - ALARM # 68
+2018-02-21 03:14:20,813 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,813 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:20,814 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,814 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,814 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,814 - RA_IDS_Source_IP_Final - INFO - true positive count: 66
+2018-02-21 03:14:20,814 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,814 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:20,917 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:20,918 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:20,918 - RA_IDS_Source_IP_Final - INFO - window count = 71
+2018-02-21 03:14:20,918 - RA_IDS_Source_IP_Final - INFO - ALARM # 69
+2018-02-21 03:14:20,918 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:20,918 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:20,918 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:20,919 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:20,919 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:20,919 - RA_IDS_Source_IP_Final - INFO - true positive count: 67
+2018-02-21 03:14:20,919 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:20,919 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,023 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,023 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:21,023 - RA_IDS_Source_IP_Final - INFO - window count = 72
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - ALARM # 70
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - true positive count: 68
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,024 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,119 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,119 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - window count = 73
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - ALARM # 71
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - true positive count: 69
+2018-02-21 03:14:21,120 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,121 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,221 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,221 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:21,221 - RA_IDS_Source_IP_Final - INFO - window count = 74
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - ALARM # 72
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - true positive count: 70
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,222 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,314 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,314 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:21,314 - RA_IDS_Source_IP_Final - INFO - window count = 75
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - ALARM # 73
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - true positive count: 71
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,315 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,425 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,425 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:21,425 - RA_IDS_Source_IP_Final - INFO - window count = 76
+2018-02-21 03:14:21,425 - RA_IDS_Source_IP_Final - INFO - ALARM # 74
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - true positive count: 72
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,426 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,544 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,544 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:21,544 - RA_IDS_Source_IP_Final - INFO - window count = 77
+2018-02-21 03:14:21,544 - RA_IDS_Source_IP_Final - INFO - ALARM # 75
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - true positive count: 73
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,545 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,630 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,630 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:21,630 - RA_IDS_Source_IP_Final - INFO - window count = 78
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - ALARM # 76
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - true positive count: 74
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,631 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,763 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,763 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:21,763 - RA_IDS_Source_IP_Final - INFO - window count = 79
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - ALARM # 77
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - true positive count: 75
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,764 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,859 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,860 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:21,860 - RA_IDS_Source_IP_Final - INFO - window count = 80
+2018-02-21 03:14:21,860 - RA_IDS_Source_IP_Final - INFO - ALARM # 78
+2018-02-21 03:14:21,860 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,860 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:21,860 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,860 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,861 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,861 - RA_IDS_Source_IP_Final - INFO - true positive count: 76
+2018-02-21 03:14:21,861 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,861 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:21,985 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - window count = 81
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - ALARM # 79
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - true positive count: 77
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:21,986 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,062 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,062 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:22,062 - RA_IDS_Source_IP_Final - INFO - window count = 82
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - ALARM # 80
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - true positive count: 78
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,063 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - window count = 83
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - ALARM # 81
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,187 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,188 - RA_IDS_Source_IP_Final - INFO - true positive count: 79
+2018-02-21 03:14:22,188 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,188 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,285 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,285 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - window count = 84
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - ALARM # 82
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - true positive count: 80
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,286 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,390 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,391 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:22,391 - RA_IDS_Source_IP_Final - INFO - window count = 85
+2018-02-21 03:14:22,399 - RA_IDS_Source_IP_Final - INFO - ALARM # 83
+2018-02-21 03:14:22,399 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,399 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:22,399 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,399 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,400 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,400 - RA_IDS_Source_IP_Final - INFO - true positive count: 81
+2018-02-21 03:14:22,400 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,400 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,521 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - window count = 86
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - ALARM # 84
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,522 - RA_IDS_Source_IP_Final - INFO - true positive count: 82
+2018-02-21 03:14:22,523 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,523 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,629 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - window count = 87
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - ALARM # 85
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,630 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,631 - RA_IDS_Source_IP_Final - INFO - true positive count: 83
+2018-02-21 03:14:22,631 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,631 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,746 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - window count = 88
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - ALARM # 86
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,747 - RA_IDS_Source_IP_Final - INFO - true positive count: 84
+2018-02-21 03:14:22,748 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,748 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,825 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,825 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:22,825 - RA_IDS_Source_IP_Final - INFO - window count = 89
+2018-02-21 03:14:22,825 - RA_IDS_Source_IP_Final - INFO - ALARM # 87
+2018-02-21 03:14:22,825 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,825 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:22,826 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,826 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,826 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,826 - RA_IDS_Source_IP_Final - INFO - true positive count: 85
+2018-02-21 03:14:22,826 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,826 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:22,956 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:22,956 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:22,956 - RA_IDS_Source_IP_Final - INFO - window count = 90
+2018-02-21 03:14:22,956 - RA_IDS_Source_IP_Final - INFO - ALARM # 88
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - true positive count: 86
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:22,957 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,047 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - window count = 91
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - ALARM # 89
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - true positive count: 87
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,048 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,117 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - window count = 92
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - ALARM # 90
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - true positive count: 88
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,118 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,208 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,208 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:23,208 - RA_IDS_Source_IP_Final - INFO - window count = 93
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - ALARM # 91
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - true positive count: 89
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,209 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,333 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,333 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - window count = 94
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - ALARM # 92
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - true positive count: 90
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,334 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,433 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - window count = 95
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - ALARM # 93
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,434 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,435 - RA_IDS_Source_IP_Final - INFO - true positive count: 91
+2018-02-21 03:14:23,435 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,435 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,554 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,554 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:23,554 - RA_IDS_Source_IP_Final - INFO - window count = 96
+2018-02-21 03:14:23,554 - RA_IDS_Source_IP_Final - INFO - ALARM # 94
+2018-02-21 03:14:23,554 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,554 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:23,555 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,555 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,555 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,555 - RA_IDS_Source_IP_Final - INFO - true positive count: 92
+2018-02-21 03:14:23,555 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,555 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,642 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,644 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:23,644 - RA_IDS_Source_IP_Final - INFO - window count = 97
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - ALARM # 95
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - true positive count: 93
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,645 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,765 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,765 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - window count = 98
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - ALARM # 96
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - true positive count: 94
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,766 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,871 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,871 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:23,871 - RA_IDS_Source_IP_Final - INFO - window count = 99
+2018-02-21 03:14:23,871 - RA_IDS_Source_IP_Final - INFO - ALARM # 97
+2018-02-21 03:14:23,871 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,872 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:23,872 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,872 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,872 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,872 - RA_IDS_Source_IP_Final - INFO - true positive count: 95
+2018-02-21 03:14:23,872 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,872 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:23,977 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:23,978 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:23,978 - RA_IDS_Source_IP_Final - INFO - window count = 100
+2018-02-21 03:14:23,978 - RA_IDS_Source_IP_Final - INFO - ALARM # 98
+2018-02-21 03:14:23,978 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:23,978 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:23,978 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:23,979 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:23,979 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:23,979 - RA_IDS_Source_IP_Final - INFO - true positive count: 96
+2018-02-21 03:14:23,979 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:23,979 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,071 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - window count = 101
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - ALARM # 99
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - true positive count: 97
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,072 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,177 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,177 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:24,177 - RA_IDS_Source_IP_Final - INFO - window count = 102
+2018-02-21 03:14:24,177 - RA_IDS_Source_IP_Final - INFO - ALARM # 100
+2018-02-21 03:14:24,177 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,178 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:24,178 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,178 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,178 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,178 - RA_IDS_Source_IP_Final - INFO - true positive count: 98
+2018-02-21 03:14:24,178 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,178 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,282 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,282 - RA_IDS_Source_IP_Final - INFO - source IP address count: 14
+2018-02-21 03:14:24,282 - RA_IDS_Source_IP_Final - INFO - window count = 103
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - ALARM # 101
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.63906
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - true positive count: 99
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,283 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,373 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,373 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:24,373 - RA_IDS_Source_IP_Final - INFO - window count = 104
+2018-02-21 03:14:24,373 - RA_IDS_Source_IP_Final - INFO - ALARM # 102
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - true positive count: 100
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,374 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,515 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - window count = 105
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - ALARM # 103
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - true positive count: 101
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,516 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - window count = 106
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - ALARM # 104
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,591 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,592 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,592 - RA_IDS_Source_IP_Final - INFO - true positive count: 102
+2018-02-21 03:14:24,592 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,592 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - window count = 107
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - ALARM # 105
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,660 - RA_IDS_Source_IP_Final - INFO - true positive count: 103
+2018-02-21 03:14:24,661 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,661 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,739 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,739 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:24,742 - RA_IDS_Source_IP_Final - INFO - window count = 108
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - ALARM # 106
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - true positive count: 104
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,743 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,872 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,872 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:24,872 - RA_IDS_Source_IP_Final - INFO - window count = 109
+2018-02-21 03:14:24,872 - RA_IDS_Source_IP_Final - INFO - ALARM # 107
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - true positive count: 105
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,873 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:24,971 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:24,971 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:24,972 - RA_IDS_Source_IP_Final - INFO - window count = 110
+2018-02-21 03:14:24,972 - RA_IDS_Source_IP_Final - INFO - ALARM # 108
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - true positive count: 106
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:24,973 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,070 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,070 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:25,070 - RA_IDS_Source_IP_Final - INFO - window count = 111
+2018-02-21 03:14:25,070 - RA_IDS_Source_IP_Final - INFO - ALARM # 109
+2018-02-21 03:14:25,070 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,071 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:25,071 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,071 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,071 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,071 - RA_IDS_Source_IP_Final - INFO - true positive count: 107
+2018-02-21 03:14:25,071 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,071 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,151 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,151 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:25,151 - RA_IDS_Source_IP_Final - INFO - window count = 112
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - ALARM # 110
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - true positive count: 108
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,152 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,257 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - window count = 113
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - ALARM # 111
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - true positive count: 109
+2018-02-21 03:14:25,258 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,259 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,363 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,363 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:25,363 - RA_IDS_Source_IP_Final - INFO - window count = 114
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - ALARM # 112
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - true positive count: 110
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,364 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,465 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,466 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:25,466 - RA_IDS_Source_IP_Final - INFO - window count = 115
+2018-02-21 03:14:25,466 - RA_IDS_Source_IP_Final - INFO - ALARM # 113
+2018-02-21 03:14:25,466 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,466 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:25,466 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,466 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,467 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,467 - RA_IDS_Source_IP_Final - INFO - true positive count: 111
+2018-02-21 03:14:25,467 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,467 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,572 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - window count = 116
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - ALARM # 114
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,573 - RA_IDS_Source_IP_Final - INFO - true positive count: 112
+2018-02-21 03:14:25,574 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,574 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,655 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,655 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:25,655 - RA_IDS_Source_IP_Final - INFO - window count = 117
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - ALARM # 115
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - true positive count: 113
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,656 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,750 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,750 - RA_IDS_Source_IP_Final - INFO - source IP address count: 14
+2018-02-21 03:14:25,750 - RA_IDS_Source_IP_Final - INFO - window count = 118
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - ALARM # 116
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.63906
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - true positive count: 114
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,751 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - window count = 119
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - ALARM # 117
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,847 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,848 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,848 - RA_IDS_Source_IP_Final - INFO - true positive count: 115
+2018-02-21 03:14:25,848 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,848 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:25,948 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:25,948 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:25,948 - RA_IDS_Source_IP_Final - INFO - window count = 120
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - ALARM # 118
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - true positive count: 116
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:25,949 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,063 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - window count = 121
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - ALARM # 119
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,064 - RA_IDS_Source_IP_Final - INFO - true positive count: 117
+2018-02-21 03:14:26,065 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,065 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - window count = 122
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - ALARM # 120
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,144 - RA_IDS_Source_IP_Final - INFO - true positive count: 118
+2018-02-21 03:14:26,145 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,145 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,224 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,224 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:26,224 - RA_IDS_Source_IP_Final - INFO - window count = 123
+2018-02-21 03:14:26,224 - RA_IDS_Source_IP_Final - INFO - ALARM # 121
+2018-02-21 03:14:26,224 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,224 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:26,224 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,225 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,225 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,225 - RA_IDS_Source_IP_Final - INFO - true positive count: 119
+2018-02-21 03:14:26,225 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,225 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,313 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - window count = 124
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - ALARM # 122
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - true positive count: 120
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,314 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,448 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,448 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:26,448 - RA_IDS_Source_IP_Final - INFO - window count = 125
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - ALARM # 123
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - true positive count: 121
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,449 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,529 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,529 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:26,529 - RA_IDS_Source_IP_Final - INFO - window count = 126
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - ALARM # 124
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - true positive count: 122
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,530 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,632 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,632 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - window count = 127
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - ALARM # 125
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - true positive count: 123
+2018-02-21 03:14:26,633 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,634 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,718 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - window count = 128
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - ALARM # 126
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - true positive count: 124
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,719 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,859 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,859 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:26,859 - RA_IDS_Source_IP_Final - INFO - window count = 129
+2018-02-21 03:14:26,859 - RA_IDS_Source_IP_Final - INFO - ALARM # 127
+2018-02-21 03:14:26,859 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,859 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:26,860 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,860 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,860 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,860 - RA_IDS_Source_IP_Final - INFO - true positive count: 125
+2018-02-21 03:14:26,860 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,860 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:26,954 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:26,954 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:26,954 - RA_IDS_Source_IP_Final - INFO - window count = 130
+2018-02-21 03:14:26,954 - RA_IDS_Source_IP_Final - INFO - ALARM # 128
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - true positive count: 126
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:26,955 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,032 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,032 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:27,032 - RA_IDS_Source_IP_Final - INFO - window count = 131
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - ALARM # 129
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - true positive count: 127
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,033 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,146 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,146 - RA_IDS_Source_IP_Final - INFO - source IP address count: 14
+2018-02-21 03:14:27,146 - RA_IDS_Source_IP_Final - INFO - window count = 132
+2018-02-21 03:14:27,146 - RA_IDS_Source_IP_Final - INFO - ALARM # 130
+2018-02-21 03:14:27,146 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,147 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.63906
+2018-02-21 03:14:27,147 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,147 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,147 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,147 - RA_IDS_Source_IP_Final - INFO - true positive count: 128
+2018-02-21 03:14:27,147 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,147 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,258 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - window count = 133
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - ALARM # 131
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - true positive count: 129
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,259 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,336 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,336 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:27,336 - RA_IDS_Source_IP_Final - INFO - window count = 134
+2018-02-21 03:14:27,336 - RA_IDS_Source_IP_Final - INFO - ALARM # 132
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - true positive count: 130
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,337 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,481 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - window count = 135
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - ALARM # 133
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - true positive count: 131
+2018-02-21 03:14:27,483 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,484 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,550 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,550 - RA_IDS_Source_IP_Final - INFO - source IP address count: 11
+2018-02-21 03:14:27,550 - RA_IDS_Source_IP_Final - INFO - window count = 136
+2018-02-21 03:14:27,550 - RA_IDS_Source_IP_Final - INFO - ALARM # 134
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.3979
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - true positive count: 132
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,551 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - window count = 137
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - ALARM # 135
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,622 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,623 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,623 - RA_IDS_Source_IP_Final - INFO - true positive count: 133
+2018-02-21 03:14:27,623 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,623 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,711 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - window count = 138
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - ALARM # 136
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - true positive count: 134
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,712 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,820 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - source IP address count: 16
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - window count = 139
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - ALARM # 137
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.77259
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - true positive count: 135
+2018-02-21 03:14:27,821 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,822 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:27,934 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:27,934 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:27,934 - RA_IDS_Source_IP_Final - INFO - window count = 140
+2018-02-21 03:14:27,934 - RA_IDS_Source_IP_Final - INFO - ALARM # 138
+2018-02-21 03:14:27,934 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:27,935 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:27,935 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:27,935 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:27,935 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:27,935 - RA_IDS_Source_IP_Final - INFO - true positive count: 136
+2018-02-21 03:14:27,935 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:27,935 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,062 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,062 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:28,062 - RA_IDS_Source_IP_Final - INFO - window count = 141
+2018-02-21 03:14:28,062 - RA_IDS_Source_IP_Final - INFO - ALARM # 139
+2018-02-21 03:14:28,062 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:28,062 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:28,063 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:28,063 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,063 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,063 - RA_IDS_Source_IP_Final - INFO - true positive count: 137
+2018-02-21 03:14:28,063 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:28,063 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,141 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,141 - RA_IDS_Source_IP_Final - INFO - source IP address count: 15
+2018-02-21 03:14:28,141 - RA_IDS_Source_IP_Final - INFO - window count = 142
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - ALARM # 140
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.70805
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - true positive count: 138
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:28,142 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,269 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,269 - RA_IDS_Source_IP_Final - INFO - source IP address count: 17
+2018-02-21 03:14:28,269 - RA_IDS_Source_IP_Final - INFO - window count = 143
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - ALARM # 141
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 2.83321
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - true positive count: 139
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:28,270 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,355 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,355 - RA_IDS_Source_IP_Final - INFO - source IP address count: 4
+2018-02-21 03:14:28,355 - RA_IDS_Source_IP_Final - INFO - window count = 144
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - ALARM # 142
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - ALARM!!! RA Flooding Detected!!!
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 1.38629
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - true negative count: 2
+2018-02-21 03:14:28,356 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,455 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,455 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - window count = 145
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.83251
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - true negative count: 3
+2018-02-21 03:14:28,456 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,522 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,522 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:28,522 - RA_IDS_Source_IP_Final - INFO - window count = 146
+2018-02-21 03:14:28,522 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,522 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,522 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 2.35194
+2018-02-21 03:14:28,522 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,523 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,523 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,523 - RA_IDS_Source_IP_Final - INFO - true negative count: 4
+2018-02-21 03:14:28,523 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,581 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,581 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:28,581 - RA_IDS_Source_IP_Final - INFO - window count = 147
+2018-02-21 03:14:28,581 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,582 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,582 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 2.11675
+2018-02-21 03:14:28,582 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,582 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,582 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,582 - RA_IDS_Source_IP_Final - INFO - true negative count: 5
+2018-02-21 03:14:28,582 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,662 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,662 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:28,662 - RA_IDS_Source_IP_Final - INFO - window count = 148
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 1.90508
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - true negative count: 6
+2018-02-21 03:14:28,663 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - window count = 149
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 1.71457
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,732 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,733 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,733 - RA_IDS_Source_IP_Final - INFO - true negative count: 7
+2018-02-21 03:14:28,733 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,792 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,792 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:28,792 - RA_IDS_Source_IP_Final - INFO - window count = 150
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 1.54311
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - true negative count: 8
+2018-02-21 03:14:28,793 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,873 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,873 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:28,873 - RA_IDS_Source_IP_Final - INFO - window count = 151
+2018-02-21 03:14:28,873 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,873 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,874 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 1.3888
+2018-02-21 03:14:28,874 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,874 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,874 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,874 - RA_IDS_Source_IP_Final - INFO - true negative count: 9
+2018-02-21 03:14:28,874 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:28,958 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:28,958 - RA_IDS_Source_IP_Final - INFO - source IP address count: 1
+2018-02-21 03:14:28,958 - RA_IDS_Source_IP_Final - INFO - window count = 152
+2018-02-21 03:14:28,958 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:28,959 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:28,959 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 1.24992
+2018-02-21 03:14:28,959 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:28,959 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:28,959 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:28,959 - RA_IDS_Source_IP_Final - INFO - true negative count: 10
+2018-02-21 03:14:28,959 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:29,046 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:29,046 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:29,046 - RA_IDS_Source_IP_Final - INFO - window count = 153
+2018-02-21 03:14:29,046 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:29,047 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:29,047 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 1.12494
+2018-02-21 03:14:29,047 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:29,047 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:29,047 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:29,047 - RA_IDS_Source_IP_Final - INFO - true negative count: 11
+2018-02-21 03:14:29,047 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:29,146 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:29,146 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:29,146 - RA_IDS_Source_IP_Final - INFO - window count = 154
+2018-02-21 03:14:29,146 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:29,146 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:29,146 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 1.01244
+2018-02-21 03:14:29,147 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:29,147 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:29,147 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:29,147 - RA_IDS_Source_IP_Final - INFO - true negative count: 12
+2018-02-21 03:14:29,147 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:29,220 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:29,220 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:29,220 - RA_IDS_Source_IP_Final - INFO - window count = 155
+2018-02-21 03:14:29,220 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:29,221 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:29,221 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.9112
+2018-02-21 03:14:29,221 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:29,221 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:29,221 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:29,221 - RA_IDS_Source_IP_Final - INFO - true negative count: 13
+2018-02-21 03:14:29,221 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:29,311 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:29,312 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:29,312 - RA_IDS_Source_IP_Final - INFO - window count = 156
+2018-02-21 03:14:29,312 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:29,313 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:29,313 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.82008
+2018-02-21 03:14:29,313 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:29,313 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:29,313 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:29,313 - RA_IDS_Source_IP_Final - INFO - true negative count: 14
+2018-02-21 03:14:29,313 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:29,396 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:29,396 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:29,396 - RA_IDS_Source_IP_Final - INFO - window count = 157
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.73806
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - true negative count: 15
+2018-02-21 03:14:29,397 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - window count = 158
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.66426
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:29,475 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:29,476 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:29,476 - RA_IDS_Source_IP_Final - INFO - true negative count: 16
+2018-02-21 03:14:29,476 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
+2018-02-21 03:14:29,546 - RA_IDS_Source_IP_Final - INFO - ---------- Window Starts ----------
+2018-02-21 03:14:29,546 - RA_IDS_Source_IP_Final - INFO - source IP address count: 0
+2018-02-21 03:14:29,546 - RA_IDS_Source_IP_Final - INFO - window count = 159
+2018-02-21 03:14:29,546 - RA_IDS_Source_IP_Final - INFO - NO! RA Flooding Detected...
+2018-02-21 03:14:29,546 - RA_IDS_Source_IP_Final - INFO - Entropy for source IP address : 0.0
+2018-02-21 03:14:29,546 - RA_IDS_Source_IP_Final - INFO - Adaptive threshold value : 0.59783
+2018-02-21 03:14:29,547 - RA_IDS_Source_IP_Final - INFO - false positive count: 0
+2018-02-21 03:14:29,547 - RA_IDS_Source_IP_Final - INFO - false negative count: 0
+2018-02-21 03:14:29,547 - RA_IDS_Source_IP_Final - INFO - true positive count: 140
+2018-02-21 03:14:29,547 - RA_IDS_Source_IP_Final - INFO - true negative count: 17
+2018-02-21 03:14:29,547 - RA_IDS_Source_IP_Final - INFO - ---------- Window Ends   ----------
+
